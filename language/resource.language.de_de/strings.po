@@ -827,3 +827,315 @@ msgstr "Profil-Avatar"
 #~ msgctxt "#31909"
 #~ msgid "Fetching forecast info..."
 #~ msgstr "Vorhersagedaten werden abgerufen ..."
+
+msgctxt "#31700"
+msgid "Display mode"
+msgstr "Displayauflösung"
+
+msgctxt "#31701"
+msgid "Video mode"
+msgstr "Videoauflösung"
+
+msgctxt "#31702"
+msgid "Color space"
+msgstr "Farbbereich"
+
+msgctxt "#31703"
+msgid "Mb/s"
+msgstr "Mb/s"
+
+msgctxt "#31704"
+msgid "Video bit depth"
+msgstr "Videofarbtiefe"
+
+msgctxt "#31705"
+msgid "Decoder"
+msgstr "Dekodierung"
+
+msgctxt "#31706"
+msgid "VS10 | VP mode"
+msgstr "VS10 | VP-Modus"
+
+msgctxt "#31707"
+msgid "Processing"
+msgstr "Verarbeitung"
+
+msgctxt "#31708"
+msgid "Video queue"
+msgstr "Video Queue"
+
+msgctxt "#31709"
+msgid "Video queue data"
+msgstr "Video Queue-Daten"
+
+msgctxt "#31710"
+msgid "Audio queue"
+msgstr "Audio Queue"
+
+msgctxt "#31711"
+msgid "Audio queue data"
+msgstr "Audio Queue-Daten"
+
+msgctxt "#31712"
+msgid "Kb/s"
+msgstr "Kb/s"
+
+msgctxt "#31713"
+msgid "Playback time"
+msgstr "Wiedergabezeit"
+
+msgctxt "#31714"
+msgid "Processor"
+msgstr "Prozessor"
+
+msgctxt "#31715"
+msgid "Metadata"
+msgstr "Metadaten"
+
+msgctxt "#31716"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "#31717"
+msgid "Level"
+msgstr "Level"
+
+msgctxt "#31718"
+msgid "RPU"
+msgstr "RPU"
+
+msgctxt "#31719"
+msgid "Base Layer"
+msgstr "Base Layer"
+
+msgctxt "#31720"
+msgid "Enhancement Layer"
+msgstr "Enhancement Layer"
+
+msgctxt "#31721"
+msgid "CMv2.9 -> CMv4.0"
+msgstr "CMv2.9 -> CMv4.0"
+
+msgctxt "#31722"
+msgid "Metadata"
+msgstr "Metadaten"
+
+msgctxt "#31723"
+msgid "Output format"
+msgstr "Ausgabeformat"
+
+msgctxt "#31724"
+msgid "Aspect ratio"
+msgstr "Seitenverhältnis"
+
+msgctxt "#31725"
+msgid "HDR10 MDL"
+msgstr "HDR10 MDL"
+
+msgctxt "#31726"
+msgid "HDR10 MaxCLL/FALL"
+msgstr "HDR10 MaxCLL/FALL"
+
+msgctxt "#31727"
+msgid "Media source"
+msgstr "Medienquelle"
+
+msgctxt "#31728"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgctxt "#31729"
+msgid "On"
+msgstr "An"
+
+msgctxt "#31730"
+msgid "Off"
+msgstr "Aus"
+
+msgctxt "#31731"
+msgid "Deinterlacing"
+msgstr "Verfahren"
+
+msgctxt "#31732"
+msgid "Player cache"
+msgstr "Player Cache"
+
+msgctxt "#31733"
+msgid "N/A"
+msgstr "Nicht verfügbar"
+
+msgctxt "#31734"
+msgid "Memory usage"
+msgstr "Arbeitsspeicher"
+
+msgctxt "#31735"
+msgid "Passthrough"
+msgstr "Passthrough"
+
+msgctxt "#31736"
+msgid "AML FPS"
+msgstr "AML FPS"
+
+msgctxt "#31737"
+msgid "Dolby Vision"
+msgstr "Dolby Vision"
+
+msgctxt "#31738"
+msgid "L5 Offsets (detected)"
+msgstr "L5 Offset (ermittelt)"
+
+msgctxt "#31739"
+msgid "HDR Static Metadata"
+msgstr "Statische HDR-Metadaten"
+
+msgctxt "#31740"
+msgid "cd/m²"
+msgstr "cd/m²"
+
+msgctxt "#31741"
+msgid "RPU MDL"
+msgstr "RPU MDL"
+
+msgctxt "#31742"
+msgid "RPU MaxCLL/FALL"
+msgstr "RPU MaxCLL/FALL"
+
+msgctxt "#31743"
+msgid "FLL MIN / MAX / Ø"
+msgstr "FLL MIN / MAX / Ø"
+
+msgctxt "#31744"
+msgid "PQ  MIN / MAX / Ø"
+msgstr "PQ  MIN / MAX / Ø"
+
+msgctxt "#31745"
+msgid "12-bit"
+msgstr "12-bit"
+
+msgctxt "#31746"
+msgid "Codec"
+msgstr "Codec"
+
+msgctxt "#31747"
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgctxt "#31748"
+msgid "VS10 status"
+msgstr "VS10-Status"
+
+msgctxt "#31751"
+msgid "Input"
+msgstr "Eingang"
+
+msgctxt "#31752"
+msgid "Audio language"
+msgstr "Audiosprache"
+
+msgctxt "#31753"
+msgid "Subtitle language"
+msgstr "Untertitelsprache"
+
+msgctxt "#31754"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#31755"
+msgid "Output"
+msgstr "Ausgang"
+
+msgctxt "#31756"
+msgid "Audio"
+msgstr "Ton"
+
+msgctxt "#31757"
+msgid "Top left"
+msgstr "Oben links"
+
+msgctxt "#31758"
+msgid "Top center"
+msgstr "Oben mittig"
+
+msgctxt "#31759"
+msgid "Top right"
+msgstr "Oben rechts"
+
+msgctxt "#31760"
+msgid "Position of the codec logos in the OSD"
+msgstr "Position der Codec-Logos im OSD"
+
+msgctxt "#31761"
+msgid "Position of the codec logos in the PlayerProcessInfo"
+msgstr "Position der Codec-Logos im PlayerProcessInfo"
+
+msgctxt "#31762"
+msgid "Position of the codec logos when video starts"
+msgstr "Position der Codec-Logos beim Start des Videos"
+
+msgctxt "#31763"
+msgid "Codec logos"
+msgstr "Codec-Logos"
+
+msgctxt "#31764"
+msgid "Original"
+msgstr "Original"
+
+msgctxt "#31765"
+msgid "VS10 mode"
+msgstr "VS10-Modus"
+
+msgctxt "#31767"
+msgid "L5 Active Offsets"
+msgstr "L5 Aktive Offsets"
+
+msgctxt "#31768"
+msgid "Version"
+msgstr "Version"
+
+msgctxt "#31769"
+msgid "Bit depth"
+msgstr "Bittiefe"
+
+msgctxt "#31770"
+msgid "EOTF & Gamut"
+msgstr "EOTF & Gamut"
+
+msgctxt "#31771"
+msgid "Duration of the codec logos when video starts"
+msgstr "Dauer der Codec-Logos beim Start des Videos"
+
+msgctxt "#31772"
+msgid "Standard"
+msgstr "Standard"
+
+msgctxt "#31775"
+msgid "second"
+msgstr "Sekunde"
+
+msgctxt "#31776"
+msgid "seconds"
+msgstr "Sekunden"
+
+msgctxt "#31777"
+msgid "System"
+msgstr "System"
+
+msgctxt "#31778"
+msgid "Decoding"
+msgstr "Dekodierung"
+
+msgctxt "#31790"
+msgid "failed"
+msgstr "gescheitert"
+
+msgctxt "#31791"
+msgid "detected"
+msgstr "ermittelt"
+
+msgctxt "#31792"
+msgid "skipped"
+msgstr "übersprungen"
+
+msgctxt "#31793"
+msgid "running"
+msgstr "ermitteln"

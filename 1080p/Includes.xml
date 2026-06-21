@@ -20,6 +20,7 @@
 	<include file="IncludesConstants.xml" />
 	<include file="IncludesParameters.xml" />
 	<include file="IncludesVariables.xml" />
+	<include file="Includes_CodecLogos.xml"/>
 	<!-- INCLUDES -->
 	<include name="DialogSelectLayout">
 		<left>323</left>

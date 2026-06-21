@@ -81,7 +81,7 @@
 				<top>8</top>
 				<width>1020</width>
 				<height>585</height>
-				<texture background="true" fallback="special://skin/backgrounds/tv.jpg">$INFO[Container(50).ListItem.EpgEventIcon]</texture>
+				<texture>special://skin/backgrounds/tv.jpg</texture>
 				<include>VisibleFadeEffect</include>
 				<visible>!Player.HasVideo</visible>
 			</control>

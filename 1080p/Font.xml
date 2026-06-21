@@ -93,6 +93,16 @@
 			<filename>Roboto-Bold.ttf</filename>
 			<size>14</size>
 		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>21</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>22</size>
+        </font>
 	</fontset>
 	<fontset id="Massive" idloc="15110">
 		<!-- Normal Fonts -->
@@ -182,6 +192,16 @@
 			<filename>Roboto-Bold.ttf</filename>
 			<size>14</size>
 		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>21</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>22</size>
+        </font>
 	</fontset>
 	<fontset id="Arial" idloc="31392">
 		<!-- Arial Font better for non English -->
@@ -281,5 +301,15 @@
 			<size>12</size>
 			<style>bold</style>
 		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>21</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>22</size>
+        </font>
 	</fontset>
 </fonts>
