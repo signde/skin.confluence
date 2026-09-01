@@ -8,7 +8,7 @@
 			<depth>DepthHeader</depth>
 			<left>1080</left>
 			<top>0</top>
-			<animation effect="slide" end="0,-120" time="150" condition="Window.IsVisible(FullscreenVideo) | Window.IsVisible(Visualisation)">conditional</animation>
+			<animation effect="slide" end="0,-120" time="150" condition="[Window.IsVisible(FullscreenVideo) + String.IsEmpty(Window(10151).Property(activeareastartup))] | Window.IsVisible(Visualisation)">conditional</animation>
 			<control type="image">
 				<left>0</left>
 				<top>-15</top>

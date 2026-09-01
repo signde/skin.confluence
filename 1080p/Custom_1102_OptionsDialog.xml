@@ -74,7 +74,7 @@
 						<label>10116</label>
 						<texturefocus border="5">button-focus2.png</texturefocus>
 						<onclick>Dialog.Close(all)</onclick>
-						<onclick>ActivateWindow(playerprocessinfo)</onclick>
+						<onclick>RunScript(script.signde.tinyppi)</onclick>
 						<onclick>SetFocus(207)</onclick>
 					</control>
 					<control type="button" id="15">

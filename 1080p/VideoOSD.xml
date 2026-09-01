@@ -9,6 +9,7 @@
 		<top>0</top>
 	</coordinates>
 	<controls>
+
 		<control type="button">
 			<description>Close Window button</description>
 			<left>126r</left>
@@ -249,6 +250,22 @@
 				<onclick>SetProperty(optionsdialog_content,options,home)</onclick>
 				<onclick>SetProperty(optionsdialog_header,$LOCALIZE[33063],home)</onclick>
 				<onclick>ActivateWindow(1102)</onclick>
+			</control>
+			<control type="button" id="208">
+				<width>83</width>
+				<height>83</height>
+				<font/>
+				<texturefocus>OSDChannelListFO.png</texturefocus>
+				<texturenofocus>OSDChannelListNF.png</texturenofocus>
+				<onclick>RunScript(script.signde.tinyppi)</onclick>
+			</control>
+			<control type="button" id="209">
+				<width>83</width>
+				<height>83</height>
+				<font/>
+				<texturefocus>OSDPreFO.png</texturefocus>
+				<texturenofocus>OSDPreNF.png</texturenofocus>
+				<onclick>RunScript(script.signde.tinyppi,dialog)</onclick>
 			</control>
 		</control>
 	</controls>
